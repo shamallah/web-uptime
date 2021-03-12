@@ -16,7 +16,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2021-03-12": 20,
+      "2021-03-12": 469,
       "2021-03-11": 1440,
       "2021-03-10": 1440,
       "2021-03-09": 1440,
@@ -39,7 +39,7 @@
     "url": "https://hirebestengineers.com/",
     "icon": "https://favicons.githubusercontent.com/hirebestengineers.com",
     "slug": "hire-best-engineers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -50,6 +50,8 @@
     "timeWeek": 379,
     "timeMonth": 403,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-12": 0
+    }
   }
 ]
